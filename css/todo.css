@@ -1,0 +1,29 @@
+/* MainPage Todo List  */
+*{
+    padding: 0px;
+    margin: 0px;
+ }
+
+ body{
+      background-color:rgb(187, 127, 25);
+    } 
+
+  li{
+      list-style-type: none;
+     }
+  #tryit{
+        overflow: auto;
+         height:70vh;
+        margin-top: 5%;
+        margin-right: 20%;
+        margin-left: 20%;
+        background-color:white;
+        font-size: 18px;
+        font-family: Arial, Helvetica, sans-serif;
+        padding: 50px;
+        cursor: pointer;
+      }
+  .list{
+        margin-left: 20%;
+        margin-top: 20px;
+      }
